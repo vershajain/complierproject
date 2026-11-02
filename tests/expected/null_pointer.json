@@ -1,0 +1,7 @@
+{
+  "rules": [
+    "memory-leak",
+    "null-dereference",
+    "potential-null-dereference"
+  ]
+}

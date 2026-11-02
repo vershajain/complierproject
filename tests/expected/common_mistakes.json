@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "assignment-in-condition",
+    "missing-include",
+    "missing-include",
+    "printf-args",
+    "scanf-address"
+  ]
+}

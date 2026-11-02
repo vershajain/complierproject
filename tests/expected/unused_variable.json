@@ -1,0 +1,6 @@
+{
+  "rules": [
+    "unused-variable",
+    "unused-variable"
+  ]
+}

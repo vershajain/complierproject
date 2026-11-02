@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "redeclaration",
+    "type-mismatch",
+    "undeclared-function",
+    "undeclared-identifier",
+    "unused-variable"
+  ]
+}

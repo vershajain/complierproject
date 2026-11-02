@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "division-by-zero",
+    "infinite-loop",
+    "missing-return",
+    "unreachable-code",
+    "unused-variable"
+  ]
+}

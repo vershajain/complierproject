@@ -1,0 +1,15 @@
+{
+  "name": "c-lint",
+  "version": "1.0.0",
+  "private": true,
+  "description": "C-Lint: a compiler-based syntax checker and static code analyzer for C programs",
+  "scripts": {
+    "setup": "npm install && npm --prefix backend install && npm --prefix frontend install && npm run build:analyzer",
+    "build:analyzer": "node scripts/build-analyzer.js",
+    "dev": "concurrently -n api,web -c blue,green \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "test": "node tests/run_tests.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

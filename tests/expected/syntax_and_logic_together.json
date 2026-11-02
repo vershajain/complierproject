@@ -1,0 +1,9 @@
+{
+  "rules": [
+    "format-string",
+    "lex-error",
+    "no-effect-statement",
+    "syntax-error",
+    "syntax-error"
+  ]
+}

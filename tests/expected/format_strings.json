@@ -1,0 +1,16 @@
+{
+  "rules": [
+    "format-string",
+    "format-string",
+    "format-string",
+    "printf-args",
+    "printf-args",
+    "printf-type",
+    "printf-type",
+    "printf-type",
+    "scanf-address",
+    "scanf-type",
+    "scanf-type",
+    "unsafe-function"
+  ]
+}

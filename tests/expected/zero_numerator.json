@@ -1,0 +1,8 @@
+{
+  "rules": [
+    "potential-division-by-zero",
+    "zero-numerator",
+    "zero-numerator",
+    "zero-numerator"
+  ]
+}

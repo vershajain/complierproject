@@ -1,0 +1,6 @@
+{
+  "rules": [
+    "infinite-loop",
+    "unreachable-code"
+  ]
+}

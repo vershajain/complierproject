@@ -1,0 +1,8 @@
+{
+  "rules": [
+    "array-out-of-bounds",
+    "array-out-of-bounds",
+    "array-out-of-bounds",
+    "array-out-of-bounds"
+  ]
+}

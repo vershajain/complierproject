@@ -1,0 +1,6 @@
+{
+  "rules": [
+    "uninitialized-variable",
+    "uninitialized-variable"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "rules": [
+    "duplicate-case",
+    "implicit-fallthrough",
+    "missing-return"
+  ]
+}

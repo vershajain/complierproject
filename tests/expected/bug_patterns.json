@@ -1,0 +1,11 @@
+{
+  "rules": [
+    "constant-condition",
+    "constant-condition",
+    "empty-statement",
+    "empty-statement",
+    "infinite-loop",
+    "self-assignment",
+    "shadowed-variable"
+  ]
+}

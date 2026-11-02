@@ -1,0 +1,21 @@
+{
+  "rules": [
+    "array-out-of-bounds",
+    "buffer-overflow",
+    "constant-condition",
+    "constant-condition",
+    "constant-overflow",
+    "double-free",
+    "float-equality",
+    "infinite-loop",
+    "integer-division",
+    "memory-leak",
+    "no-effect-statement",
+    "potential-null-dereference",
+    "redundant-operation",
+    "undefined-reference",
+    "uninitialized-pointer",
+    "unsafe-function",
+    "use-after-free"
+  ]
+}
